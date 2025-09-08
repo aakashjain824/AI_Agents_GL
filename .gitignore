@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+marimo/.mypy_cache/
+marimo/.pytest_cache/
+marimo/.venv/
+
+# CrewAI entity memory
+CrewAI/entity_memory/
+
+# Short-term memory
+CrewAI/short_term_memory/
+
+uv.lock/
+
+
